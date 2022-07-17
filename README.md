@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi,I abdallah
+I’m currently working on X ware
+I’m currently learning front end
