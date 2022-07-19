@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Hi there 👋
 * Hi am Abdallah
-* I'm currently learning Frontend web development
+* I'm currently learning Frontend web development.
